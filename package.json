@@ -1,0 +1,19 @@
+{
+  "name": "goit-js-hw-06-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --open=./index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerhiiKutovyi/goit-js-hw-06-new.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SerhiiKutovyi/goit-js-hw-06-new/issues"
+  },
+  "homepage": "https://github.com/SerhiiKutovyi/goit-js-hw-06-new#readme"
+}
