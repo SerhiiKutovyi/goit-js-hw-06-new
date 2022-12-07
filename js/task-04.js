@@ -6,12 +6,10 @@ console.log(incrementRef);
 
 const counterValue = 0;
 
-counterRef.addEventListener('click', onClickIncrement);
+incrementRef.addEventListener('click', onClickIncrement);
 
 function onClickIncrement(event) {
-  if (event.target) {
-    counterValue + 1;
-  }
+  console.log(event);
 }
 
 function onClickDecrement(event) {
